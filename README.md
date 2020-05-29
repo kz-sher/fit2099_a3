@@ -11,11 +11,11 @@ Work Breakdown Agreement is located under /design-docs/WBA
 
 ## Extra Features
 
-## Boss Level
+#### Boss Level
 
 In the map, there is a location with the symbol 'E' on it. This is an entrance to a boss level. The boss inside moves randomly each turn, and drops a grenade on its location which damages entities around it. The only way to exit this level is to kill the boss. Once the boss is killed, the boss will then act as the gateway to exit back into the outside world.
 
-## GUI Interface
+#### GUI Interface
 
 To enable this feature, 2 lines must be uncommented :
 
