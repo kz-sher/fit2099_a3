@@ -1,4 +1,7 @@
-# Important files
+# FIT2099 Assignment 3
+A simple starwars game built using `Java`.
+
+## Important files
 
 The design documentation is located under /design-docs/design-documentation.pdf
 
@@ -6,7 +9,7 @@ New UML class and sequence diagrams are located under /design-docs/added_design
 
 Work Breakdown Agreement is located under /design-docs/WBA
 
-# Extra Features
+## Extra Features
 
 ## Boss Level
 
@@ -33,5 +36,3 @@ c - Move southeast <br />
 If the Player cannot move in a chosen direction, then nothing will occur when pressing the corresponding buttons.
 
 Any other instructions can be done by clicking the buttons provided at the bottom of the window.
-# fit2099_a3
-# fit2099_a3
